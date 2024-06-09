@@ -3,6 +3,7 @@
 
 ## Hardware
 
-* Board: VisionFive 2 v1.3B
+* Board: VisionFive 2 v1.3B 8G
+* Storage: Samsung MB-MY512SA
 
 ## Software
