@@ -3,4 +3,6 @@
 
 ## Hardware
 
+* Board: VisionFive 2 v1.3B
+
 ## Software
