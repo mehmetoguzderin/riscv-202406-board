@@ -6,7 +6,7 @@
 * Board: VisionFive 2 v1.3B 8G
 * Storage: Samsung MB-MY512SA
 * Power: Type-C 65W
-* Debug: Type-A CP2102 with Cable
+* Serial: Type-A CP2102 with Cable
 * Network: Ethernet Cat 8
 * Cooling: Fan
 * Thermal: Gel
